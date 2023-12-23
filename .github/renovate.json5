@@ -6,5 +6,5 @@
   "enabledManagers": [
     "helm-values"
   ],
-  "bumpVersion": true
+  "bumpVersion": "minor"
 }
