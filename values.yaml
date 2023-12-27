@@ -97,5 +97,5 @@ tolerations: []
 
 affinity: {}
 
-# sidecar:
-#   image: kiwigrid/k8s-sidecar:1.25.0
+sidecar:
+  image: kiwigrid/k8s-sidecar:1.25.0
